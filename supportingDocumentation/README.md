@@ -12,7 +12,7 @@ A WIREFRAME OF THE INTENDED DESIGN IS CONTAINED WITHIN THE SAME FOLDER AS THIS R
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-THE WEBSITE HAS ALSO BEEN DEPLOYED WITH SURGE TO THE FOLLOWING URL: Surge is reportedly down at the moment, and my deployment will not succeed
+THE WEBSITE HAS ALSO BEEN DEPLOYED WITH SURGE TO THE FOLLOWING URL: educated-doll.surge.sh
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
